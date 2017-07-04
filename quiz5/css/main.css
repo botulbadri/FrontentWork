@@ -1,0 +1,77 @@
+.Botul{
+	background-color: #ededed;
+	width: 1400px;
+	margin: 0 auto;
+	height: 1000px;
+}
+header{
+	background-color: #808080;
+	height: 50px;
+	font-size: 20px;
+	color: white;
+	padding-left: 150px;
+
+}
+
+.halma{
+	background-color:#cccccc;
+	width: 1200px;
+	height: 900px;
+	margin: 0 auto;
+
+}
+
+.halma1{
+	background-color: ;
+	width: 532px;
+	height: 290px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+.halma2{
+	background-color: ;
+	width: 532px;
+	height: 290px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+.halma3{
+	background-color:;
+	width: 345px;
+	height: 280px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+.halma4{
+	background-color: ;
+	width: 345px;
+	height: 280px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+.halma5{
+	background-color: ;
+	width: 345px;
+	height: 280px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+.halma6{
+	background-color: ;
+	width: 1100px;
+	height: 270px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}

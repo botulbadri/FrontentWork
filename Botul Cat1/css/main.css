@@ -1,0 +1,126 @@
+.abdi{
+	background-color: #ededed;
+	width: 1200px;
+	margin: 0 auto;
+	height: 1000px;
+}
+header{
+	background-color: #a94f47;
+	height: 50px;
+	font-size: 20px;
+	color: white;
+	padding-left: 150px;
+
+}
+
+#flowers{
+	background-color: #ffffff;
+	width: 1000px;
+	height: 800px;
+	margin: 0 auto;
+
+}
+.Rose{
+	background-color: pink;
+	width: 430px;
+	height: 298px;
+	float:left;
+	margin-left: 30px;
+	margin-top: 10px;
+	 
+	
+}
+.Lilies{
+	background-color: ;
+	width:430px;
+	height: 298px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+.Amaryllis{
+	background-color:;
+	width: 293px;
+	height: 200px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.Anthurium{
+	background-color:;
+	width: 293px;
+	height: 200px;
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+.Aster{
+	background-color: ;
+	width: 293px;
+	height: 200px;
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+.Calla{
+	background-color:;
+	width: 293px;
+	margin-left: 30px;
+	margin-top: 10px;
+	float: left;
+	height: 200px;
+
+}
+.Bapleurum{
+	background-color: ;
+	width: 293px;
+	margin-left: 25px;
+	margin-top: 10px;
+	float: left;
+	height: 200px;
+}
+.Ireland{
+	background-color:;
+	width: 293px;
+	margin-left: 25px;
+	margin-top: 10px;
+	float: left;
+	height: 200px;
+
+}
+h2{
+	margin-left: 20px;
+	color: #a15152;
+}
+div.Rose{
+	background-image: url(../images/flower1.jpg);
+}
+div.Amaryllis{
+	background-image: url(../images/001.jpg);
+
+}
+div.Anthurium{
+	background-image: url(../images/006.jpg);
+}
+div.Aster{
+	background-image: url(../images/014.jpg);
+}
+.yusuf{
+	float: left;
+	padding-left: 100px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.yusuf1{
+	float-right;
+	padding-left:  960px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}	
+ a{
+	color:#a95356;
+	text-decoration: none;
+}
+
+
+

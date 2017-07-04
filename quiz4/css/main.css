@@ -1,0 +1,116 @@
+body{
+	
+}
+.container{
+	
+	background-color: white;
+	width: 1400px;
+	height: 700px;
+	}
+header{
+	background-color: #222;
+
+}
+header ul{
+	margin:0px;
+	padding: 0px;
+	text-align: center;
+
+}
+header ul li {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	display: :inline;
+}
+header ul li a{
+	color:#fff;
+	text-decoration: none;
+	display: inline-block;
+	padding: 15px 20px;
+}
+header ul li a:hover{
+	color:purple;
+
+}
+header ul li.active a{
+color: orange;
+}
+.Big1{
+  background-color: yellow;
+  width: 335px;
+ float: left;
+  height: 295px;
+  margin-left:
+  margin-top: 5px;
+}
+.Big2{
+	background-color: blue;
+	 width: 335px;
+    height: 295px;
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+
+.Big3{
+    background-color: pink;
+	 width: 335px;
+    height: 295px;
+    float: left;
+     margin-left: 5px;
+    margin-bottom: 5px;
+
+}
+.Big4{
+	background-color: lime;
+	 width: 335px;
+    height: 295px;
+    float: left;
+     margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.Big5{
+	background-color: cyan;
+	 width: 335px;
+    height: 298px;
+    float: left;
+     margin-left: ;
+    margin-bottom: 5px;
+}
+.Big6{
+	background-color: black;
+	width: 335px;
+    height: 298px;
+    float: left;
+     margin-left: 5px;
+    margin-bottom: 5px;
+
+}
+.Big7{
+	background-color: red;
+	width: 335px;
+    height: 298px;
+    float: left;
+     margin-left: 5px;
+    margin-bottom: 5px;
+
+}
+.Big8{
+	background-color: green;
+	width: 335px;
+    height: 298px;
+    float: left;
+     margin-left: 5px;
+    margin-bottom: 5px;
+
+
+}
+
+
+
+
+
+

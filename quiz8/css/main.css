@@ -1,0 +1,65 @@
+body{
+	max-width: 100%;
+	height: 100%;
+	background-color: grey;
+}
+.halma{
+	width:800px;
+	height:1200px;
+	background-color: #fff;
+	margin: 0 auto;
+}
+.halma1{
+	width: 400px;
+	height:400px;
+	background-color: cyan;
+	border-style: none;
+	float: left;
+	border-radius:50%;
+	background-image: url(../images/tuly1.jpg); 
+}
+.halma2{
+	width: 400px;
+	height:400px;
+	background-color: lime;
+	border-style: none;
+	float: left;
+	border-radius:50%;
+	background-image: url(../images/tuly2.jpg); 
+}
+.halma3{
+	width: 400px;
+	height:400px;
+	background-color: blue;
+	border-style: none;
+	float: left;
+	border-radius: 50%;
+	background-image: url(../images/tuly3.jpg); 
+}
+.halma4{
+	width: 400px;
+	height:400px;
+	background-color: yellow;
+	border-style: none;
+	float: left;
+	border-radius: 50%;
+	background-image: url(../images/tuly4.jpg); 
+}
+.halma5{
+	width: 400px;
+	height:400px;
+	background-color: pink;
+	border-style: none;
+	float: left;
+	border-radius: 50%;
+	background-image: url(../images/tuly5.jpg); 
+}
+.halma6{
+	width: 400px;
+	height:400px;
+	background-color: purple;
+	border-style: none;
+	float: left;
+	border-radius: 50%;
+	background-image: url(../images/tuly6.jpg); 
+}

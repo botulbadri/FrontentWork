@@ -1,0 +1,59 @@
+body{
+	background-color: #74c35a;
+	width: 1440px;
+	height: 805px;
+}
+form{
+	background-color: #fff;
+	width: 497;
+	height: 393px;
+	margin: 0 auto;
+	padding-top: 63px;
+	margin-top: 80px;
+	margin-right: 478px;
+	margin-bottom: 120px;
+	margin-left: 468px;
+
+}
+.halma input{
+	width: 368px;
+	height: 63px;
+	padding: 0px;
+	background-color: #f2f2f2;
+	color: #bebebe;
+	border-style: none;
+	margin-left: 63px;
+	margin-right: 63px;
+	text-indent: 20px;
+}
+.halma1 input{
+	width: 368px;
+	height: 63px;
+	padding: 0px;
+	background-color: #f2f2f2;
+	color: #bebebe;
+	text-decoration-color: #b3b3b3;
+	border-style: none;
+	margin-left: 63px;
+	margin-right: 63px;
+	text-indent: 20px;
+}
+.halma2 input{
+	width: 368px;
+	height: 63px;
+	padding: 0px;
+	background-color: #f2f2f2;
+	background-color: #00b242;
+	text-align: center;
+	text-decoration-color:#fff;
+	border-style: none;
+	margin-left: 63px;
+	margin-right: 63px;
+}
+p{
+	margin-left: 113px;
+	color:#fff;
+}
+a{
+	color: #3ab867;
+}
